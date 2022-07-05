@@ -1,0 +1,178 @@
+.head {
+    border: 1px solid transparent;
+    background-color: gray;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+
+ul {
+    float: left;
+    cursor: pointer;
+}
+
+ul li {
+    float: left;
+    width: 120px;
+    position: relative;
+    left: 60%;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: gray;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    background-color: gray;
+    border: grey solid thick;
+}
+
+ul li a:hover {
+    background-color: gray;
+    border: black solid thick;
+}
+
+h2 {
+    position: absolute;
+    right: 78%;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 8px;
+    font-weight: bolder;
+}
+
+font {
+    color: red;
+}
+
+.cover img {
+    background-size: cover;
+    height: 930px;
+    width: 1339px;
+}
+
+.text {
+    position: absolute;
+    text-outline: 2px;
+    left: 30%;
+    top: 80%;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    width: 400px;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 80px;
+    color: black;
+}
+
+h4 {
+    position: absolute;
+    top: -4%;
+    font-size: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+form input[type="submit"] {
+    position: absolute;
+    top: 86%;
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: crimson;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+form input[type="submit"]:hover {
+    background-color: red;
+}
+
+.image22 {
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    border: 5px solid gray;
+    box-shadow: 1px 2px 4px;
+}
+
+h5 {
+    color: red;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    border: 1px solid black;
+    width: 200px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.image22:hover {
+    box-shadow: 6px 6px 9px;
+    transform: scale(1.2);
+}
+
+.image23 {
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    border: 5px solid gray;
+    box-shadow: 1px 2px 4px;
+}
+
+.image23:hover {
+    box-shadow: 6px 6px 9px;
+    transform: scale(1.2);
+}
+
+.image24 {
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    border: 5px solid black;
+    box-shadow: 1px 2px 4px;
+}
+
+.image24:hover {
+    box-shadow: 6px 6px 9px;
+    transform: scale(1.2);
+}
+
+h {
+    font-size: 40px;
+    align: left;
+}
+
+footer {
+    background-color: gray;
+    text-align: center;
+}
+
+.slogan {
+    position: absolute;
+    text-outline: 2px;
+    left: 30%;
+    top: 35%;
+}
+
+.About {
+    text-align: center;
+}
+
+.content {
+    color: black;
+}
